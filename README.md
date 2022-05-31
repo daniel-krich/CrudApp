@@ -1,4 +1,4 @@
-## Console CRUD Application ##
+## CRUD CLI App ##
 
 #### Before you run: ####
 - Update connection string if necessary.
